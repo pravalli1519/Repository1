@@ -6,6 +6,7 @@ public class Sub {
 		// TODO Auto-generated method stub
 		System.out.println("Subtraction");
 		System.out.println("huuuu");
+		System.out.println("iooo");
 	}
 
 }
